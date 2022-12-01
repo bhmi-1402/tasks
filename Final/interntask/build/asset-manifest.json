@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e2605cd.css",
+    "main.js": "/static/js/main.496a697c.js",
+    "static/js/787.98bb6e72.chunk.js": "/static/js/787.98bb6e72.chunk.js",
+    "static/media/shoe2.png": "/static/media/shoe2.ef5414e508ed55925e20.png",
+    "static/media/tonikroos.jpg": "/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/shoe.jpg": "/static/media/shoe.9a7bc9c8f2cbd547b24e.jpg",
+    "static/media/christiano.jpg": "/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/user.png": "/static/media/user.05d0404ad8a0ab5bdefa.png",
+    "static/media/medium.png": "/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7e2605cd.css.map": "/static/css/main.7e2605cd.css.map",
+    "main.496a697c.js.map": "/static/js/main.496a697c.js.map",
+    "787.98bb6e72.chunk.js.map": "/static/js/787.98bb6e72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e2605cd.css",
+    "static/js/main.496a697c.js"
+  ]
+}

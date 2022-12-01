@@ -1,0 +1,56 @@
+.top
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    /* box-shadow: 2px 0px 8px rgba(128, 128, 128, 0.749); */
+}
+.icons
+{
+    display: flex;
+    justify-content: space-between;
+}
+.icons > *
+{
+    margin:10px 10px;
+}
+
+
+.thumbnail
+{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    /* border: 2px solid grey; */
+}
+.thumbnail img
+{
+    width: 100%;
+    height: 80%;
+}
+.tile > *
+{
+ text-align: center;
+ margin: 0px;
+}
+.tile h2
+{
+    font-size: 20px;
+}
+.mainWindow
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    height: 90%;
+    box-sizing: border-box;
+    overflow: scroll;
+}
+.mainWindow > *
+{   
+    color: inherit;
+    text-decoration: none;
+    margin: auto;
+}

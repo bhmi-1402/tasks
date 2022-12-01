@@ -1,0 +1,13 @@
+.store
+{
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+    padding: 10px;
+}
+.selected
+{
+  border-bottom: 2px solid grey;
+  padding: 0px 10px;
+}
